@@ -1,0 +1,6 @@
+Include/
+tcl/
+Scripts/
+Lib/
+LICENSE.txt
+*.pyc
